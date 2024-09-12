@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="authorsname">
+    <item>Лев Толстой</item>
+    <item>Джордж Оруэлл</item>
+    <item>Харпер Ли</item>
+    <item>Дж. К. Роулинг</item>
+    <item>Фрэнсис Скотт Фицджеральд</item>
+    <item>Федор Достоевский</item>
+    <item>Дж. К. Роулинг</item>
+    <item>Михаил Булгаков</item>
+    <item>Эрих Мария Ремарк</item>
+    <item>Владимир Набоков</item>
+    <item>Грегори Дэвид Робертс</item>
+    <item>Александр Дюма</item>
+    <item>Джеймс Джойс</item>
+    <item>Стивен Кинг</item>
+    <item>Айн Рэнд</item>
+    <item>Жан-Поль Сартр</item>
+    <item>Антуан де Сент-Экзюпери</item>
+    <item>Льюис Кэрролл</item>
+    <item>Герберт Уэллс</item>
+    <item>Стефани Майер</item>
+    <item>Иван Тургенев</item>
+    <item>Уильям Голдинг</item>
+    <item>Аркадий и Борис Стругацкие</item>
+    <item>Стивен Кинг</item>
+    <item>Олдос Хаксли</item>
+    </string-array>
+</resources>

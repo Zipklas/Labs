@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="namebooks">
+    <item>Война и мир </item>
+        <item>1984 </item>
+        <item>Убить пересмешника</item>
+        <item>Гарри Поттер и философский камень</item>
+        <item>Великий Гэтсби</item>
+        <item>Преступление и наказание </item>
+        <item>Гарри Поттер и Кубок огня </item>
+        <item>Мастер и Маргарита</item>
+        <item>Три товарища</item>
+        <item>Лолита</item>
+        <item>Тень горы</item>
+        <item>"Граф Монте-Кристо" </item>
+        <item>Улисс </item>
+        <item>Зеленая миля </item>
+        <item>Атлант расправил плечи </item>
+        <item>Тошнота </item>
+        <item>Маленький принц </item>
+        <item>Алиса в стране чудес</item>
+        <item>Машина времени </item>
+        <item>Сумерки </item>
+        <item>Отцы и дети</item>
+        <item>Повелитель мух </item>
+        <item>Пикник на обочине </item>
+        <item>Это </item>
+        <item>О дивный новый мир</item>
+</string-array>
+</resources>

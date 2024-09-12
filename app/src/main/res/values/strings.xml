@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">laba1</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_home">Список книг</string>
+    <string name="title_dashboard">Выбранная книга</string>
+    <string name="title_notifications">Избранные книги</string>
+</resources>
